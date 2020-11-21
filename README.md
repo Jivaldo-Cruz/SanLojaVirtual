@@ -1,1 +1,6 @@
 # SanLojaVirtual
+
+É uma loja de controles de venda, em que um administrador adiciona os produtos para que os clientes comprem.
+Os dados do adimin fica numa base de dados feito pelo sqlite3 e os restos de dados também....
+
+Quando a app terminar os resto da descrição será feita...
